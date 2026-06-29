@@ -38,7 +38,7 @@ To run this project, you need the following libraries installed:
 pip install torch torchvision opencv-python scikit-learn matplotlib pandas numpy scikit-image
 ```
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone the repository:
 
